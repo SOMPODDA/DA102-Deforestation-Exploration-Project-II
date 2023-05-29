@@ -1,5 +1,5 @@
 # DA102.3-Deforestation-Exploration
-ForestQuery, a non-profit organization, on a mission to reduce deforestation
+
 For this project, you will step into the role of a data analyst for ForestQuery, a non-profit organization, on a mission to reduce deforestation around the world and raises awareness about this important environmental topic. 
 In order to process and analyze data in more efficient ways. 
 
