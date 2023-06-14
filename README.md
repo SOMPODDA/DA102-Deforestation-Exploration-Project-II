@@ -1,4 +1,4 @@
-# DA102.3-Deforestation-Exploration a SQL Project  ![image](https://github.com/SOMPODDA/DA102-Deforestation-Exploration-Project-II/assets/70188796/100a639b-15dd-4724-af93-c228dc40ece7)
+# DA102.3-Deforestation-Exploration-SQL_Analysis  ![image](https://github.com/SOMPODDA/DA102-Deforestation-Exploration-Project-II/assets/70188796/100a639b-15dd-4724-af93-c228dc40ece7)
 
 
 For this project, you will step into the role of a data analyst for ForestQuery, a non-profit organization, on a mission to reduce deforestation around the world and raises awareness about this important environmental topic. 
