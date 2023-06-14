@@ -18,6 +18,8 @@ This Project will focus on the following components of subqueries:
 4.  Consider the tradeoffs to using subqueries
 5.  Implement the best subquery strategy
 
+       ![image](https://github.com/SOMPODDA/DA102-Deforestation-Exploration-Project-II/assets/70188796/45d5ccf5-e72e-4b0b-ac69-7989f1e9f636)
+
 
 Learning Outcomes:
 
