@@ -1,4 +1,4 @@
-# DA102.3-Deforestation-Exploration
+# DA102.3-Deforestation-Exploration a SQL Project
 
 For this project, you will step into the role of a data analyst for ForestQuery, a non-profit organization, on a mission to reduce deforestation around the world and raises awareness about this important environmental topic. 
 
@@ -17,3 +17,12 @@ This Project will focus on the following components of subqueries:
 3.  Implement the best type of Subqueries
 4.  Consider the tradeoffs to using subqueries
 5.  Implement the best subquery strategy
+
+
+Learning Outcomes:
+
+1. Gain an understanding of foundational concepts for business and product development, including marketing and growth
+2. Apply SQL concepts to analyze a single table in multiple ways
+3. Combine Data from multiple tables with SQL joins
+4. Learn how to use SQL functions to aggregate data
+5. Process and analyze data in more efficient ways using subqueries
