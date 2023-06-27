@@ -29,3 +29,5 @@ Learning Outcomes:
 3. Combine Data from multiple tables with SQL joins
 4. Learn how to use SQL functions to aggregate data
 5. Process and analyze data in more efficient ways using subqueries
+
+   ![image](https://github.com/SOMPODDA/DA102-Deforestation-Exploration-Project-II/assets/70188796/1d2ce282-ef5e-432f-8fbd-0534bd2995f3)
